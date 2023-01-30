@@ -1,3 +1,4 @@
+// for Competitive Programming
 
 #include <iostream>
 using namespace std;
